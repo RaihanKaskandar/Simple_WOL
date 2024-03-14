@@ -1,4 +1,4 @@
-# Simple Wake-on-LAN (WoL) Python Program
+# Simple Wake-on-LAN (WoL) Program
 
 ## Description
 This Python script allows you to wake up computers or devices on your network using the Wake-on-LAN (WoL) protocol. It sends a specially crafted magic packet to the target device's MAC address, causing it to power on if it supports WoL.
