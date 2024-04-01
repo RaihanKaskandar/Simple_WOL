@@ -1,7 +1,5 @@
-import tkinter  
 import customtkinter
 from PIL import Image
-import pickle
 from wakeonlan import send_magic_packet
 
 # Global Variables
